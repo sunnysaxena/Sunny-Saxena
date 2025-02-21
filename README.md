@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
+<img width="100%" height = "500px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZqY2hnNnk0NGtiN2NsZWV3Zzh0N3FsbmpxOXNoZ2tsN2FwcTVzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDE4UjuhQSWh0GiHQZ/giphy.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://github.com/sunnysaxena/Sunny-Saxena/blob/main/banner.jpg" width = 50px height=50px> </h1>
@@ -12,14 +12,33 @@
 <div size='20px'> Hi! My name is Sunny Saxena Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px height=75px></h2>
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I am a full-time trader specializing in the stock market, where I combine traditional trading strategies with innovative machine learning techniques to drive data-informed decision making. My approach blends in-depth market analysis with algorithmic strategies, enabling me to identify and capitalize on emerging trends. With a strong foundation in quantitative analysis and risk management, I continuously refine my strategies through cutting-edge machine learning models to enhance trading performance.
+# Hi there! 👋
 
-- 💬 Talk to me about Python, JavaScript,Open Source, Machine Learning, Artificial Intelligence
+## 🚀 About Me
+I'm a **full-time trader** specializing in the **stock market** with a strong focus on **machine learning** and **algorithmic trading**. My expertise includes:
+- 📈 High-frequency trading & real-time market analysis
+- 🤖 AI-driven trading strategies & predictive modeling
+- 📊 Backtesting & data-driven decision-making
+- ⚡ Optimized SQL-based data management for tick and OHLC data
+
+## 🛠 Tech Stack
+- **Programming:** C, C++, Python 🐍 | Kotlin 📱
+- **Databases:** SQL, InfluxDb, Timescaledb (TablePlus on Linux Mint 🐧)
+- **Tools & Platforms:** Finance API | Local real-time data streaming, WebSocket
+- **Machine Learning:** Scikit-Learn | TensorFlow | Pandas | NumPy | ChatGPT
+
+## 📈 Projects
+- **MarketTrend 📊** *(Android App)*: Fetches OHLC data from Yahoo Finance & displays it elegantly.
+- **AlgoTrading Bot 🤖**: An algorithmic trading system leveraging ML models for market predictions.
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+- 📧 Email: saxenasunny@hotmail.com
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
